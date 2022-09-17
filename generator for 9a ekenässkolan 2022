@@ -1,0 +1,4 @@
+import random
+platser = ["Hanna", "Una", "Gustav", "Patricia", "Abdullahi", "Mohammed", "Sara", "Tage", "Phetlada", "Herman", "Lovisa", "Kenny", "Agnes", "Wilhelm", "Tuva",
+           "Adham", "Fillippa", "Amanda", "Matea", "William", "Hai", "Sofia", "Hannes", " Fredrik", "nils", "Alma", "Elias", "Fabian","Linnea", ]
+random.shuffle(platser)
